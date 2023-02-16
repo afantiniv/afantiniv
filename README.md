@@ -1,6 +1,6 @@
 # Alejandro F.V.
 
-**`Full stack developer, 3D modeler, and pet lover 🐶🐱`**
+**`Full stack developer, Engineer, 3D modeler, and pet lover 🐶🐱`**
 
 Hi, I'm Alejandro!! I'm a new full stack developer, content creator, and knowledge sharer with a diverse set of skills and experiences. As an Industrial Production Engineer and Business person with experience in sales and leadership, I have a strong understanding of how to manage teams and execute projects in a way that is efficient and effective.
 
