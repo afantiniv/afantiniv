@@ -26,6 +26,10 @@ item-level RFID over USB readers, thermal label printing over raw TCP.
 host and admin: five surfaces over one schema and 162 tables, so the kitchen and
 the register can never disagree about an order.
 
+**[f1.today](https://f1.today)** — is there Formula 1 today? A yes or no in three
+seconds, with live session detection, a countdown, your own timezone and one-click
+calendar export. Astro 5 with Preact islands, no database and no runtime APIs.
+
 **[Vacancy](https://vacancy-lilac.vercel.app)** — a live 3D map of Manhattan with
 all 44,795 buildings extruded from NYC Open Data, listings anchored to the
 building they are actually in.
