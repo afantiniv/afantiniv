@@ -30,7 +30,7 @@ the register can never disagree about an order.
 seconds, with live session detection, a countdown, your own timezone and one-click
 calendar export. Astro 5 with Preact islands, no database and no runtime APIs.
 
-**[Vacancy](https://vacancy-lilac.vercel.app)** — a live 3D map of Manhattan with
+**[vacancy.city](https://vacancy.city)** — a live 3D map of Manhattan with
 all 44,795 buildings extruded from NYC Open Data, listings anchored to the
 building they are actually in.
 
