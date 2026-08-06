@@ -18,9 +18,10 @@ pages a customer opens with no account. 58 tables, 176 row-level-security
 policies.
 
 **fantini.app** *(private)* — the platform a furniture manufacturer runs on.
-About 30 modules, 197 endpoints, 75 tables, 928 commits since 2023. Electronic
-invoicing to the national tax authority, ERP and route-optimization integrations,
-item-level RFID over USB readers, thermal label printing over raw TCP.
+About 30 modules, 197 endpoints, 75 tables, shipping continuously since 2023.
+Electronic invoicing to the national tax authority, ERP and route-optimization
+integrations, item-level RFID over USB readers, thermal label printing over raw
+TCP.
 
 **KARA** *(private)* — restaurant operating system. Kitchen display, POS, waiter,
 host and admin: five surfaces over one schema and 162 tables, so the kitchen and
